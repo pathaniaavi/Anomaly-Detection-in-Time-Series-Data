@@ -39,11 +39,7 @@ If you find our work useful in your research, please consider citing our paper (
 ## Contributors
 
 From:  
--Aishwarya Bodkhe
--Avishek Pathania 
--Prajna Shetty 
--Sanchita Singh
--Ritik Gupta
+Aishwarya Bodkhe,Avishek Pathania,Prajna Shetty,Sanchita Singh,Ritik Gupta
 
 
 ## License
