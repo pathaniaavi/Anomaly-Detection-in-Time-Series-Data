@@ -39,11 +39,11 @@ If you find our work useful in your research, please consider citing our paper (
 ## Contributors
 
 From:  
--Aishwarya Bodkhe(222100421)
--Avishek Pathania (222100410)
--Prajna Shetty (222100479)
--Sanchita Singh (222100414)
--Ritik Gupta ( 222100538)
+-Aishwarya Bodkhe
+-Avishek Pathania 
+-Prajna Shetty 
+-Sanchita Singh
+-Ritik Gupta
 
 
 ## License
